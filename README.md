@@ -13,3 +13,4 @@ make
 
 ## Additional Notes
 Вариант 6
+
